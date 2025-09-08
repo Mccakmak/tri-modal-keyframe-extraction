@@ -38,6 +38,13 @@ This repository contains the implementation of **TriPSS: A Tri-Modal Keyframe Ex
 
 If you use this work, please cite our paper:
 
+@article{cakmak2025tripss,
+  title={TriPSS: A Tri-Modal Keyframe Extraction Framework Using Perceptual, Structural, and Semantic Representations},
+  author={Cakmak, Mert Can and Agarwal, Nitin and Poudel, Diwash},
+  journal={arXiv preprint arXiv:2506.05395},
+  year={2025}
+}
+
 ACM Reference Format:
 Mert Can Cakmak, Nitin Agarwal, and Diwash Poudel. 2025. TriPSS: A Tri-
 Modal Keyframe Extraction Framework Using Perceptual, Structural, and
