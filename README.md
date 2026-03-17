@@ -45,10 +45,3 @@ If you use this work, please cite our paper:
   year={2025}
 }
 
-ACM Reference Format:
-Mert Can Cakmak, Nitin Agarwal, and Diwash Poudel. 2025. TriPSS: A Tri-
-Modal Keyframe Extraction Framework Using Perceptual, Structural, and
-Semantic Representations. In Proceedings of the ACM MM 2025 Workshop
-on Multimedia Analytics with Multimodal Large Language Models (MA-LLM
-’25), October 27–28, 2025, Dublin, Ireland. ACM, New York, NY, USA, 6 pages.
-https://doi.org/10.1145/3746263.3757710
